@@ -1,0 +1,2 @@
+# FitSync
+Automated Fitness Insights
